@@ -16,7 +16,7 @@ import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import Users from "../../pages/Users/Users";
-import logo from "../../../public/play-school-logo.png";
+import logo from "../../../public/logo.png";
 import DashboardIcon from "@mui/icons-material/Dashboard";
 import GroupIcon from "@mui/icons-material/Group";
 import AssignmentIcon from "@mui/icons-material/Assignment";
@@ -236,8 +236,8 @@ export default function DefaultLayout() {
                 style={{ transition: "ease" }}
                 src={logo}
                 alt=""
-                width={"100%"}
-                height={"38"}
+                width={"60%"}
+                height={"60"}
               />
             )}
           </Box>
