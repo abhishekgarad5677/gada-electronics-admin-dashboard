@@ -17,7 +17,7 @@ Make sure you have the following installed on your system:
 2. Navigate to the project directory:
 
    ```bash
-   cd playschool-admin-dashboard
+   cd gada-electronics-admin-dashboard
    ```
 
 3. Install dependencies:
