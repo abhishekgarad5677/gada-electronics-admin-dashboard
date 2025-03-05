@@ -1,5 +1,5 @@
 
-# play-school-admin-dashboard
+# gada-electronics-admin-dashboard
 
 This project was created using Vite. Follow the steps below to set it up and run locally.
 
